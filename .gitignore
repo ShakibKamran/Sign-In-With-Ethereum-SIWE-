@@ -1,6 +1,9 @@
 <<<<<<< HEAD
-/node_modules/
+./frontend/node_modules/
 
+./frontend/dist/
+
+./backend/node_modules/
 =======
 ./node_modules/
 >>>>>>> b440cf0 (all clear)
