@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+/node_modules/
+
+=======
+./node_modules/
+>>>>>>> b440cf0 (all clear)
+path/to/secret-file
